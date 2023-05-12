@@ -2,10 +2,10 @@
   "name": "movies-23",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://TatianaSkl.github.io/movies-23",
+  "homepage": "https://GoitStudentsWorks.github.io/fson74_js_TatianaSkl",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /movies-23/"
+    "build": "parcel build src/*.html --public-url /fson74_js_TatianaSkl/"
   },
   "repository": {
     "type": "git",
